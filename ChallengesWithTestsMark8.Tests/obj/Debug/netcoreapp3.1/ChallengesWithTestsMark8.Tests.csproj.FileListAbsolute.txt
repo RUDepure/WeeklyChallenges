@@ -98,7 +98,7 @@ C:\Users\alexr\Documents\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\o
 C:\Users\alexr\Documents\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache
 C:\Users\alexr\Documents\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.AssemblyInfo.cs
 C:\Users\alexr\Documents\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache
-C:\Users\alexr\Documents\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.csproj.CopyComplete
 C:\Users\alexr\Documents\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.dll
 C:\Users\alexr\Documents\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.pdb
 C:\Users\alexr\Documents\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
+C:\Users\alexr\Documents\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.csproj.CopyComplete
